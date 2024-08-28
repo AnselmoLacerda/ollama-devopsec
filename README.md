@@ -1,2 +1,1 @@
-# ollama-devopsec
-ollama-devopsec-genia
+# ollama-devops
