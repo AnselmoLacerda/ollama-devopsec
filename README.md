@@ -1,8 +1,3 @@
-# ollama-devops
-Sure! Here's a draft for your README documentation:
-
----
-
 # Ollama DevOpSec
 
 Welcome to the Ollama DevOpSec repository! This project aims to provide a comprehensive solution for integrating Ollama into your DevOps and security workflows.
